@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9789fbda566183b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e565d7704c4c175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c34162003d42b5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e16f853a7002784e",
+    "type": "split",
+    "children": [
+      {
+        "id": "92ffa7a8f89120f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ba718104d75596",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9945f4702fa2534a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5a3a40d3fb5f189",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fd74ef911939dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b05679e33da0dc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aef7874018eadc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b4ffe1f81a10989",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42427691042ccd37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57b6d5ce1310eb47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/2024-08-16.md"
+              }
+            }
+          },
+          {
+            "id": "5938db2c4f62af37",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f7188232e64c2d8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 489.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "64ba718104d75596",
+  "lastOpenFiles": [
+    "Templates",
+    "Notes/2024-08-16.md",
+    "DailyNotes",
+    "Notes",
+    "Assets"
+  ]
+}
