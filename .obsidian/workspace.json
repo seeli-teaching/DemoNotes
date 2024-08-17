@@ -11,8 +11,12 @@
             "id": "7c34162003d42b5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Learning Linux-Commands.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Learning Linux-Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Learning Linux-Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2024-08-16.md"
+                "file": "Notes/Learning Linux-Commands.md"
               }
             }
           },
@@ -159,10 +165,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "64ba718104d75596",
+  "active": "7c34162003d42b5d",
   "lastOpenFiles": [
-    "Templates",
+    "Notes/Learning Linux-Commands.md",
     "Notes/2024-08-16.md",
+    "Templates",
     "DailyNotes",
     "Notes",
     "Assets"
